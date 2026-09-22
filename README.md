@@ -163,9 +163,10 @@ That is all of it. No database, no index, no daemon, no server, no account, no t
 
 | | |
 |---|---|
-| contract | `—` · appears here at launch |
-| swap | — |
-| chart | — |
+| contract | `0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f` |
+| swap | https://www.ponsfamily.com/launchpad/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f |
+| chart | https://www.geckoterminal.com/robinhood/pools/0xdecd6e17c42a6b3da965c6e9652814b6bb237f39 |
+| explorer | https://robinhoodchain.blockscout.com/token/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f |
 
 ```
 fibo say $FIB 100x              ✗  not a duration
