@@ -61,7 +61,7 @@ You have made a thousand estimates. You have checked none of them.</p>
 ## Thirty seconds
 
 ```sh
-pipx install git+https://github.com/Artemoon13/fibo
+pipx install git+https://github.com/0xkuch/Fibo
 fibo demo          # two years of made-up history, same numbers on every machine
 fibo               # inside your own repository
 ```
@@ -208,7 +208,7 @@ python -m unittest        # 227 tests, stdlib only
 python docs/shots.py      # redraws every picture above, from the real output
 ```
 
-The landing page lives in its own repository, [Artemoon13/fibo-site](https://github.com/Artemoon13/fibo-site), published at [artemoon13.github.io/fibo-site](https://artemoon13.github.io/fibo-site/): the same terminal, with a working copy of this program in it. Every line it shows was printed by this program, through its `build.py`.
+The landing page lives in its own repository, [Artemoon13/fibo-site](https://github.com/Artemoon13/fibo-site), published at [fibo.fund](https://fibo.fund/): the same terminal, with a working copy of this program in it. Every line it shows was printed by this program, through its `build.py`.
 
 ---
 
