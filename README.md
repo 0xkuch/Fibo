@@ -17,6 +17,14 @@ You have made a thousand estimates. You have checked none of them.</p>
 
 <p align="center"><sub>GIT HISTORY · TERMINAL · ZERO DEPENDENCIES · NO DATABASE · NO ACCOUNT · NOTHING LEAVES THE MACHINE</sub></p>
 
+<!-- token -->
+<p align="center">
+  <a href="https://www.ponsfamily.com/launchpad/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f"><img alt="$FIB · live on robinhood chain" src="https://img.shields.io/badge/%24FIB-live%20on%20robinhood%20chain-f0c419?style=flat-square&labelColor=0b0d0b"></a><br>
+  <sub><code>0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f</code><br>
+  <a href="https://www.ponsfamily.com/launchpad/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f">swap</a> · <a href="https://www.geckoterminal.com/robinhood/pools/0xd508f4f03cc73775f46c1102753cd4dba74d10124ecf3db969d2608e9b63c6b5">chart</a> · <a href="https://robinhoodchain.blockscout.com/token/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f">explorer</a> · <a href="https://fibo.fund/#token">fibo.fund</a> · burns every 9 hours</sub>
+</p>
+<!-- /token -->
+
 <p align="center">
   <a href="#thirty-seconds">start</a> ·
   <a href="#a-promise-with-a-number-on-it">said / took</a> ·
@@ -165,7 +173,7 @@ That is all of it. No database, no index, no daemon, no server, no account, no t
 |---|---|
 | contract | `0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f` |
 | swap | https://www.ponsfamily.com/launchpad/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f |
-| chart | https://www.geckoterminal.com/robinhood/pools/0xdecd6e17c42a6b3da965c6e9652814b6bb237f39 |
+| chart | https://www.geckoterminal.com/robinhood/pools/0xd508f4f03cc73775f46c1102753cd4dba74d10124ecf3db969d2608e9b63c6b5 |
 | explorer | https://robinhoodchain.blockscout.com/token/0xfc7e0cddb9d7a1676edefbb4d87dda29efe2053f |
 
 ```
